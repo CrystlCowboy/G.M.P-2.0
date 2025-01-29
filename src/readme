@@ -1,3 +1,0 @@
-Gym. Music. Player Version 2. Instead of using tkinter for the UI, it now uses Electron for cross platform accessibilty
-
-The main issue with the first G.M.P is that it only worked on my computer. It works well as a desktop application for personal use but I was never able to download the program onto my raspberry pi tablet. I tried using docker without knowing that docker isn't typically used to "publish" final application but rather a way to share a program while in development. I am now using Electron to solve the cross platform issue and who knows. Maybe I can make the UI look alot better and even publish a way to download a user friendly music desktop app on my personal website.
